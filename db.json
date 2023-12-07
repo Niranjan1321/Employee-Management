@@ -1,0 +1,11 @@
+{
+  "EMPLOYEES": [
+    {
+      "name": "Niranjan",
+      "age": "25",
+      "department": "Front-End",
+      "maritalStatus": true,
+      "id": 1
+    }
+  ]
+}
